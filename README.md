@@ -1,7 +1,10 @@
 # Debian rootfs (Trixie and above)
 NOTE: I do not own the original repo. I just forked it to update it for Trixie.
 
-NOTE 2: This does not contain the kernel, it's intended for minimal chroots or containers.
+NOTE 2: This does not contain the kernel, it's intended for minimal chroots or containers.\
+
+Usage of genrootfs.sh:
+/path/to/genrootfs.sh stable
 
 Original README:
 
