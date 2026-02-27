@@ -1,5 +1,7 @@
-# Debian rootfs (bookworm)
-![image](https://user-images.githubusercontent.com/90936580/213817109-ac8c4562-de13-4582-b7c1-06d46db02a7a.png)
+# Debian rootfs (Trixie and above)
+NOTE: I do not own the original repo. I just forked it to update it for Trixie.
+
+Original README:
 
 ✅ Download updated Debian version: https://github.com/kbaraniak/debian-rootfs/releases/latest
 
