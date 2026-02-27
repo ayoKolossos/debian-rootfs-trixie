@@ -4,7 +4,8 @@ NOTE: I do not own the original repo. I just forked it to update it for Trixie.
 NOTE 2: This does not contain the kernel, it's intended for minimal chroots or containers.\
 
 Usage of genrootfs.sh:
-/path/to/genrootfs.sh stable
+/path/to/genrootfs.sh <Debian version codename> <repository URL>
+Example for testing: /path/to/genrootfs.sh testing http://deb.debian.org/debian/
 
 Original README:
 
